@@ -1,4 +1,4 @@
 <?php
-$content = './trangchu.php';
+$content = './home.php';
 include './template/template.php';
 ?>
